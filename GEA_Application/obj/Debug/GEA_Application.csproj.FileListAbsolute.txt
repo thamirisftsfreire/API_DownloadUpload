@@ -1,0 +1,15 @@
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Application\bin\Debug\gea.mdf
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Application\bin\Debug\gea_log.ldf
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Application\bin\Debug\GEA_Application.dll
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Application\bin\Debug\GEA_Application.pdb
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Application\bin\Debug\GEA_Domain.dll
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Application\bin\Debug\GEA_Repository.dll
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Application\bin\Debug\EntityFramework.dll
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Application\bin\Debug\GEA_Domain.pdb
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Application\bin\Debug\GEA_Repository.pdb
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Application\bin\Debug\GEA_Repository.dll.config
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Application\bin\Debug\EntityFramework.xml
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Application\obj\Debug\GEA_Application.csprojAssemblyReference.cache
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Application\obj\Debug\GEA_Application.csproj.CopyComplete
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Application\obj\Debug\GEA_Application.dll
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Application\obj\Debug\GEA_Application.pdb

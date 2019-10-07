@@ -1,0 +1,9 @@
+D:\Desenvolvimento\Projetos\API_DownloadUpload\Domain_DownloadUpload\bin\Debug\Domain_DownloadUpload.dll
+D:\Desenvolvimento\Projetos\API_DownloadUpload\Domain_DownloadUpload\bin\Debug\Domain_DownloadUpload.pdb
+D:\Desenvolvimento\Projetos\API_DownloadUpload\Domain_DownloadUpload\obj\Debug\Domain_DownloadUpload.dll
+D:\Desenvolvimento\Projetos\API_DownloadUpload\Domain_DownloadUpload\obj\Debug\Domain_DownloadUpload.pdb
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Domain\bin\Debug\GEA_Domain.dll
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Domain\bin\Debug\GEA_Domain.pdb
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Domain\obj\Debug\GEA_Domain.dll
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Domain\obj\Debug\GEA_Domain.pdb
+D:\Desenvolvimento\Projetos\API_DownloadUpload\GEA_Domain\obj\Debug\GEA_Domain.csprojAssemblyReference.cache

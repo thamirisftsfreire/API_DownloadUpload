@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Service", "1-Service", "{97E6CA07-78BD-4C01-ACCB-B0D9A852FA8B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Domain", "2-Domain", "{BE7354DD-A49E-454B-B6BB-1D901B29A005}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Infrastructure", "3-Infrastructure", "{A99B923F-8221-4F2A-B821-81B9C3E9D9FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEA_API", "GEA_API\GEA_API.csproj", "{736C82A3-B5E9-4A0C-B18C-C0A62EB70B56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEA_Domain", "GEA_Domain\GEA_Domain.csproj", "{DBCE2F94-DEDE-4174-833E-7B28721A8D2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEA_CrossCutting_Ioc", "GEA_CrossCutting_Ioc\GEA_CrossCutting_Ioc.csproj", "{87543282-6943-4B6A-A07F-E26517D71357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEA_Repository", "GEA_Repository\GEA_Repository.csproj", "{784B2471-5579-43D8-8C67-75F68838ECED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Application", "2-Application", "{451F476A-8B89-40E1-ABBD-32D125B52EB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEA_Application", "GEA_Application\GEA_Application.csproj", "{C7453B5D-60E9-4ECB-9CC5-C16D0318A486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{736C82A3-B5E9-4A0C-B18C-C0A62EB70B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736C82A3-B5E9-4A0C-B18C-C0A62EB70B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736C82A3-B5E9-4A0C-B18C-C0A62EB70B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736C82A3-B5E9-4A0C-B18C-C0A62EB70B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCE2F94-DEDE-4174-833E-7B28721A8D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCE2F94-DEDE-4174-833E-7B28721A8D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCE2F94-DEDE-4174-833E-7B28721A8D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCE2F94-DEDE-4174-833E-7B28721A8D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87543282-6943-4B6A-A07F-E26517D71357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87543282-6943-4B6A-A07F-E26517D71357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87543282-6943-4B6A-A07F-E26517D71357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87543282-6943-4B6A-A07F-E26517D71357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784B2471-5579-43D8-8C67-75F68838ECED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784B2471-5579-43D8-8C67-75F68838ECED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784B2471-5579-43D8-8C67-75F68838ECED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784B2471-5579-43D8-8C67-75F68838ECED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7453B5D-60E9-4ECB-9CC5-C16D0318A486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7453B5D-60E9-4ECB-9CC5-C16D0318A486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7453B5D-60E9-4ECB-9CC5-C16D0318A486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7453B5D-60E9-4ECB-9CC5-C16D0318A486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{736C82A3-B5E9-4A0C-B18C-C0A62EB70B56} = {97E6CA07-78BD-4C01-ACCB-B0D9A852FA8B}
+		{DBCE2F94-DEDE-4174-833E-7B28721A8D2B} = {BE7354DD-A49E-454B-B6BB-1D901B29A005}
+		{87543282-6943-4B6A-A07F-E26517D71357} = {A99B923F-8221-4F2A-B821-81B9C3E9D9FD}
+		{784B2471-5579-43D8-8C67-75F68838ECED} = {A99B923F-8221-4F2A-B821-81B9C3E9D9FD}
+		{C7453B5D-60E9-4ECB-9CC5-C16D0318A486} = {451F476A-8B89-40E1-ABBD-32D125B52EB5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {639D8EB0-4B35-421F-864D-4BF76B123FFD}
+	EndGlobalSection
+EndGlobal
